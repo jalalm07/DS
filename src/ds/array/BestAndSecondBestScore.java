@@ -1,4 +1,4 @@
-package array;
+package ds.array;
 
 public class BestAndSecondBestScore {
     static int[] arr = {22,23,1,4,88,23,56,12,3,5,2,88};
